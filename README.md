@@ -1,1 +1,3 @@
-# simple-notes-app-220670-220678
+# Project Repository
+
+This is the initial README file for the project.
